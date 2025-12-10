@@ -6,7 +6,7 @@ This repository showcases a **Sales Analysis Dashboard** built using **Microsoft
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Project Summary](#project-summary)  
 - [Dataset Overview](#dataset-overview)
@@ -17,7 +17,7 @@ This repository showcases a **Sales Analysis Dashboard** built using **Microsoft
 
 ---
 
-## 🧾 Project Summary
+## Project Summary
 
 This dashboard was designed to:
 
@@ -29,7 +29,7 @@ This dashboard was designed to:
 
 ---
 
-## 📂 Dataset Overview
+## Dataset Overview
 
 | Column              | Description                                            |
 |---------------------|--------------------------------------------------------|
@@ -43,20 +43,20 @@ This dashboard was designed to:
 | `Payment Method`    | Card, Cash, or Online                                  |
 | `Product Category`  | Category of the purchased item                         |
 
-### 🧹 Data Cleaning
+### Data Cleaning
 - Removed **1,056 duplicate rows** (based on `Transaction ID`)
 - Ensured there were **no missing values**
 - Converted `Date` column to proper DateTime format
 - Verified numerical data types and value ranges
 
 ---
-## 🛠️ Tools Used
+## Tools Used
 
 - **Microsoft Excel 2016**: Data Cleaning, Dashboard Creation  
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 #### Major KPIs at a glance
 
@@ -84,7 +84,7 @@ This dashboard was designed to:
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
 1. **Stock High-Demand Items**  
    Focus on top categories like Bags, Clothing, and Hair Accessories.
@@ -102,7 +102,6 @@ This dashboard was designed to:
 
 ## 🤝 Connect with Me
 🔗 [LinkedIn](https://www.linkedin.com/in/ngoziokonkwo/) 
-💻 [GitHub Portfolio](https://github.com/Ngozi-Okonkwo)
 
 ---
 
